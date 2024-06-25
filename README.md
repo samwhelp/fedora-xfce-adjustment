@@ -21,7 +21,7 @@
 
 | Adjustment |
 | -------- |
-| [Fedora Xfce](https://github.com/samwhelp/fedora-xfce-adjustment/tree/main/prototype/main) |
+| [Fedora Xfce Config](https://github.com/samwhelp/fedora-xfce-adjustment/tree/main/prototype/main) |
 
 
 
