@@ -38,7 +38,7 @@
 	</property>
 	<property name="plugins" type="empty">
 		<property name="plugin-1" type="string" value="whiskermenu">
-			<property name="button-icon" type="string" value="application-community"/>
+			<property name="button-icon" type="string" value="fedora-logo-icon"/>
 			<property name="button-title" type="string" value="Applications"/>
 			<property name="custom-menu" type="bool" value="false"/>
 			<property name="show-button-title" type="bool" value="true"/>
@@ -107,7 +107,7 @@
 		</property>
 		<property name="plugin-13" type="string" value="launcher">
 			<property name="items" type="array">
-				<value type="string" value="firefox.desktop"/>
+				<value type="string" value="org.mozilla.firefox.desktop"/>
 			</property>
 		</property>
 		<property name="plugin-14" type="string" value="launcher">
